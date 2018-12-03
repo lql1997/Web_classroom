@@ -1,18 +1,18 @@
 ﻿body {
   margin:0px;
   background-image:none;
-  position:static;
-  left:auto;
-  width:720px;
-  margin-left:0;
-  margin-right:0;
+  position:relative;
+  left:-231px;
+  width:489px;
+  margin-left:auto;
+  margin-right:auto;
   text-align:left;
 }
 #base {
   position:absolute;
   z-index:0;
 }
-#u221_img {
+#u247_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,7 +20,7 @@
   width:281px;
   height:90px;
 }
-#u221 {
+#u247 {
   border-width:0px;
   position:absolute;
   left:326px;
@@ -28,7 +28,7 @@
   width:281px;
   height:90px;
 }
-#u221_text {
+#u247_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -37,7 +37,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u222_img {
+#u248_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -45,7 +45,7 @@
   width:486px;
   height:2px;
 }
-#u222 {
+#u248 {
   border-width:0px;
   position:absolute;
   left:231px;
@@ -53,7 +53,7 @@
   width:485px;
   height:1px;
 }
-#u222_text {
+#u248_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -62,7 +62,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u223_div {
+#u249_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -78,7 +78,7 @@
   box-shadow:none;
   font-size:28px;
 }
-#u223 {
+#u249 {
   border-width:0px;
   position:absolute;
   left:378px;
@@ -87,7 +87,7 @@
   height:27px;
   font-size:28px;
 }
-#u223_text {
+#u249_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -95,7 +95,7 @@
   width:191px;
   word-wrap:break-word;
 }
-#u224_div {
+#u250_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -111,7 +111,7 @@
   box-shadow:none;
   font-size:14px;
 }
-#u224 {
+#u250 {
   border-width:0px;
   position:absolute;
   left:319px;
@@ -120,7 +120,7 @@
   height:49px;
   font-size:14px;
 }
-#u224_text {
+#u250_text {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -128,7 +128,7 @@
   width:277px;
   word-wrap:break-word;
 }
-#u225_img {
+#u251_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -136,7 +136,7 @@
   width:118px;
   height:43px;
 }
-#u225 {
+#u251 {
   border-width:0px;
   position:absolute;
   left:265px;
@@ -145,7 +145,7 @@
   height:43px;
   color:#FFFFFF;
 }
-#u225_text {
+#u251_text {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -153,7 +153,7 @@
   width:114px;
   word-wrap:break-word;
 }
-#u226_img {
+#u252_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -161,7 +161,7 @@
   width:118px;
   height:43px;
 }
-#u226 {
+#u252 {
   border-width:0px;
   position:absolute;
   left:265px;
@@ -170,7 +170,7 @@
   height:43px;
   color:#FFFFFF;
 }
-#u226_text {
+#u252_text {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -178,7 +178,7 @@
   width:114px;
   word-wrap:break-word;
 }
-#u227 {
+#u253 {
   border-width:0px;
   position:absolute;
   left:416px;
@@ -186,7 +186,7 @@
   width:300px;
   height:25px;
 }
-#u227_input {
+#u253_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -200,7 +200,7 @@
   color:#000000;
   text-align:left;
 }
-#u228 {
+#u254 {
   border-width:0px;
   position:absolute;
   left:416px;
@@ -208,7 +208,7 @@
   width:300px;
   height:25px;
 }
-#u228_input {
+#u254_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -222,7 +222,7 @@
   color:#000000;
   text-align:left;
 }
-#u229_img {
+#u255_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -230,7 +230,7 @@
   width:118px;
   height:43px;
 }
-#u229 {
+#u255 {
   border-width:0px;
   position:absolute;
   left:458px;
@@ -239,7 +239,7 @@
   height:43px;
   color:#000000;
 }
-#u229_text {
+#u255_text {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -247,7 +247,7 @@
   width:114px;
   word-wrap:break-word;
 }
-#u230_img {
+#u256_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -255,7 +255,7 @@
   width:113px;
   height:43px;
 }
-#u230 {
+#u256 {
   border-width:0px;
   position:absolute;
   left:607px;
@@ -263,7 +263,7 @@
   width:113px;
   height:43px;
 }
-#u230_text {
+#u256_text {
   border-width:0px;
   position:absolute;
   left:2px;

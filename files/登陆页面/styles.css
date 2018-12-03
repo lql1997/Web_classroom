@@ -1,11 +1,11 @@
 ﻿body {
   margin:0px;
   background-image:none;
-  position:static;
-  left:auto;
-  width:728px;
-  margin-left:0;
-  margin-right:0;
+  position:relative;
+  left:-231px;
+  width:497px;
+  margin-left:auto;
+  margin-right:auto;
   text-align:left;
 }
 #base {
