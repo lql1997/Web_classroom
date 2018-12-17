@@ -9,12 +9,8 @@
 }
 .box_1 {
 }
-.box_2 {
-}
 .link_button {
   color:#169BD5;
-}
-._形状 {
 }
 ._图片_ {
 }
@@ -75,15 +71,18 @@
 .checkbox {
   text-align:left;
 }
+.radio_button {
+  text-align:left;
+}
 .html_button {
   text-align:center;
-}
-.tree_node {
-  text-align:left;
 }
 ._流程形状 {
 }
 .menu_item {
+}
+.sticky_2 {
+  text-align:left;
 }
 .text_area {
   color:#000000;
